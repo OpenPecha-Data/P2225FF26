@@ -1,0 +1,32 @@
+id: P2225FF26
+initial_creation_type: input
+source_metadata:
+  title: Yeshe Tsogyal Series
+  language: it
+  description: 'Texts related to Yeshe Tsogyal (ye shes mtsho rgyal), the consort
+    of Guru Padmasambhava:'
+  volume:
+    bb533c61a7234c8f96f8962174714a2f:
+      title: A Prayer to Khandro Yeshé Tsogyal
+      parent: Prayers
+    59c66a6bf82a4c99a6ea72c5bace28ac:
+      title: A Prayer to Lady Yeshe Tsogyal, the Mother
+      parent: Prayers
+    0cd1d1e1585f4dc888ab756e347b06ed:
+      title: A Prayer to Yumka Tsogyal
+      parent: Prayers
+    74936310d49d43c6b2e6a097ba1bbb9d:
+      title: Prayer to Yeshe Tsogyal
+      parent: Prayers
+    fc9268efd9f842ada6ab39370887322c:
+      title: 'The Tambura’s Yearning Song of Devotion: A Prayer Summarizing Khandro
+        Yeshe Tsogyal’s Life and Liberation'
+      parent: Prayers
+    fb0678878c644b0b98d8f9d373437488:
+      title: Yeshe Tsogyal's Prayer
+      parent: Prayers
+    d235a0f56ddc4d34af2174db1865ac51:
+      title: 'The Concentrated Essence: A Sādhana of Yeshe Tsogyal'
+      parent: Sādhanas
+created_at: '2022-03-01T02:03:05.120044'
+last_modified_at: '2022-03-01T02:03:05.120047'
